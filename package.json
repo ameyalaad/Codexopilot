@@ -18,6 +18,10 @@
       {
         "command": "codexopilot.predict",
         "title": "Predict Code"
+      },
+      {
+        "command": "codexopilot.registerApiKey",
+        "title": "Register API Key"
       }
     ]
   },
