@@ -2,6 +2,8 @@
 
 This is the source for the Codexopilot VSCode Extension.
 
+Check out a quick demo at https://youtu.be/8BJOCSefUDQ
+
 ## Instructions
 
 ~Replace your API key in the src/extension.ts~
